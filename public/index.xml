@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauranne website</title>
+    <link>https://maurannerasoa.github.io/</link>
+    <description>Recent content on Mauranne website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 19 Mar 2025 20:28:33 +0100</lastBuildDate><atom:link href="https://maurannerasoa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://maurannerasoa.github.io/posts/</link>
+      <pubDate>Wed, 19 Mar 2025 20:28:33 +0100</pubDate>
+      
+      <guid>https://maurannerasoa.github.io/posts/</guid>
+      
+        <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
+&lt;p&gt;Hello&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
