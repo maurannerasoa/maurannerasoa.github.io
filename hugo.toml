@@ -20,6 +20,7 @@ url = "https://linkedin.com/in/cat"
   identifier = "home"
   weight = 100
   url = "/"
+  
   [[menu.main]]
   name = "Posts"
   weight = 200
