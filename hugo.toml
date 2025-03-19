@@ -3,6 +3,13 @@ languageCode = 'fr-fr'
 title = 'Mauranne website'
 theme = 'anatole'
 
+[params]
+title = "Site de Mauranne"
+author = "Mauranne"
+description = "Salut je trouve que Hugo est très lourd pour ce que ça fait"
+profilePicture = "images/profile.jpg"
+
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
