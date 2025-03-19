@@ -4,7 +4,7 @@ title = 'Mauranne website'
 theme = 'anatole'
 
 [params]
-title = "Site de Mauranne"
+title = "Mauranne Rasoanaivo"
 author = "Mauranne"
 description = "Salut je trouve que Hugo est très lourd pour ce que ça fait"
 profilePicture = "images/profile.jpg"
@@ -20,7 +20,7 @@ url = "https://linkedin.com/in/cat"
   identifier = "home"
   weight = 100
   url = "/"
-  
+
   [[menu.main]]
   name = "Posts"
   weight = 200
