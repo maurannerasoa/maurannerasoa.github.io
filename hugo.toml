@@ -2,3 +2,7 @@ baseURL = 'https://maurannerasoa.github.io/'
 languageCode = 'fr-fr'
 title = 'Mauranne website'
 theme = 'anatole'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
